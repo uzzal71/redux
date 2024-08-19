@@ -1,0 +1,17 @@
+{
+  "name": "5.1-why-redux-toolkit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.7",
+    "immer": "^10.1.1",
+    "redux": "^5.0.1"
+  }
+}
