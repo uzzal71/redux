@@ -1,0 +1,40 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "name": "Salary from Google",
+      "type": "income",
+      "amount": 1000000
+    },
+    {
+      "id": 2,
+      "name": "Family Expenses",
+      "type": "expense",
+      "amount": 200000
+    },
+    {
+      "name": "Reels",
+      "type": "income",
+      "amount": 15000,
+      "id": 3
+    },
+    {
+      "name": "House Rent",
+      "type": "expense",
+      "amount": 7800,
+      "id": 4
+    },
+    {
+      "name": "Monthly Salary",
+      "type": "income",
+      "amount": 60000,
+      "id": 5
+    },
+    {
+      "name": "Month Meal Bill",
+      "type": "expense",
+      "amount": 5000,
+      "id": 6
+    }
+  ]
+}
